@@ -8,7 +8,7 @@
             sync-j="4"
             sync-c="true"/>
 
-  <prjoect name="super" path="" />
+  <prjoect name="super" path="super" />
   <project name="server" path="server" />
   <project name="updater" path="updater" />
   <project name="web" path="web" />
